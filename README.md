@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Portafolio
+Welcome to the repository of my personal project!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a personal website designed and developed by me, Dilan Andrade, using React. Here you will find details on how to set up the project, as well as any relevant information about its functioning and structure.
 
-## Available Scripts
+Feel free to explore the code and contribute if you wish. I hope you enjoy browsing through my personal website!
 
-In the project directory, you can run:
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d0aea971058365.5bb7ed5244946.gif" alt="portafolio animado" width="500" height="350"/>
+</p>
 
-### `npm start`
+# Index 
+1. [About the project](#about-the-project)
+2. [Technologies used](#technologies-used)
+3. [Installation and use](#installation-and-use)
+4. [Licence](#licence)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# About the project <a name='about-the-project'></a>
 
-### `npm test`
+This project is a website that contains a personal portfolio with its most fundamental parts, such as: 
+- Home
+- Contacts
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Technologies used <a name='technologies-used'></a>
 
-### `npm run build`
+To create the web site I used: 
+- HTML <br> <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" alt="logo html" width="50" height="50"/>
+- CSS <br> <img src="https://e7.pngegg.com/pngimages/603/759/png-clipart-css3-cascading-style-sheets-logo-html-world-wide-web-blue-angle-thumbnail.png" alt="logo css" width="50" height="50"/>
+- Javascript <br> <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" alt="logo html" width="50" height="50"/>
+- React <br> <img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" width="50" height="50"/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Installation and use <a name='installation-and-use'></a>
+**Before starting, it is very important to mention that you need to have Node js installed**.
+```sh
+npm install
+npm start
+```
+The first is used to install certain dependencies, and the second is used to compile the program.
+If everything went well, a window with the web page should open in your browser.
+ 
+# Licence <a name='licence'></a>
+The project presented has an MIT license.

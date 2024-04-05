@@ -1,0 +1,27 @@
+.services{
+    display: flex;
+    padding-top: 30px;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(0deg, #1a1826,#2f4f4f);
+}
+.webImage{
+    width: 298px;
+    height: 193px ;
+    padding-bottom: 80px;
+}
+.services p{
+    color: aliceblue;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 30px;
+}
+@media (min-width: 800px) {
+    .services p{
+        font-size: 2.5em;
+    }
+    .webImage{
+        width: 596px;
+        height: 386px;
+    }
+}

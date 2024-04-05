@@ -1,24 +1,20 @@
-import React from 'react'UserActivation
-import logo from './logo.svg'
-import './App.css'
+import Home from './Screens/Home'
+import React from 'react'
+// eslint-disable-next-line no-unused-vars
+import Services from './Screens/Services'
+// eslint-disable-next-line no-unused-vars
+import HowWeWork from './Screens/HowWeWork'
+// eslint-disable-next-line no-unused-vars
+import Benefits from './Screens/Benefits'
+import Contact from './Screens/Contact'
+import Navbar from './Components/Navbar'
 
 function App () {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+  return (<div className="App">
+    <Navbar />
+    <Home />
+
+    <Contact />
     </div>
   )
 }

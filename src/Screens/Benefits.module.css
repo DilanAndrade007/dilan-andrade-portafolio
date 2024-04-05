@@ -1,0 +1,17 @@
+.benefits{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(0deg, #1a1826,#2f4f4f);
+    padding-bottom: 100px;
+}
+.benefits p{
+    color: aliceblue;
+    padding-top: 10px;
+    font-size: 1.4em;
+}
+.benefitTitle{
+    font-size: 2em;
+    font-weight: 400;
+    color:aliceblue;
+}
