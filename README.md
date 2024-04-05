@@ -5,9 +5,6 @@ This project is a personal website designed and developed by me, Dilan Andrade, 
 
 Feel free to explore the code and contribute if you wish. I hope you enjoy browsing through my personal website!
 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d0aea971058365.5bb7ed5244946.gif" alt="portafolio animado" width="500" height="350"/>
-</p>
 
 # Index 
 1. [About the project](#about-the-project)
